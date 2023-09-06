@@ -1,0 +1,32 @@
+{
+  "name": "flexility",
+  "version": "1.0.0",
+  "description": "Flexility is a versatile utility class library designed to streamline your web development workflow. Easily create flexible and responsive layouts, apply styling, and manage common design tasks with a wide range of utility classes. Flexility empowers developers to achieve consistent and responsive designs across their projects. Whether you're working on a small website or a complex web application, Flexility simplifies the process and enhances your development experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run flexility"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satyajit444/flexility.git"
+  },
+  "keywords": [
+    "utility",
+    "CSS",
+    "flexbox",
+    "responsive",
+    "layout",
+    "styling",
+    "web",
+    "development",
+    "design",
+    "framework",
+    "components"
+  ],
+  "author": "Satyajit senapati",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Satyajit444/flexility/issues"
+  },
+  "homepage": "https://github.com/Satyajit444/flexility#readme"
+}
