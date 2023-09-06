@@ -1,0 +1,102 @@
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.transform-center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
+
+.transform-top-right {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+.transform-top-left {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+/* Center an element horizontally and vertically */
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Center an element horizontally */
+.center-x {
+    display: flex;
+    justify-content: center;
+}
+
+/* Center an element vertically */
+.center-y {
+    display: flex;
+    align-items: center;
+}
+
+/* Position an element absolutely at the top and center horizontally */
+.absolute-center-top {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.bg-red{
+    background-color: red;
+}
+
+/* Position an element absolutely at the bottom and center horizontally */
+.absolute-center-bottom {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Position an element absolutely at the right and center vertically */
+.absolute-center-right {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+}
+
+/* Position an element absolutely at the left and center vertically */
+.absolute-center-left {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+
+/* Add padding to all sides */
+.padding-all {
+    padding: 1rem;
+}
+
+/* Add padding to top and bottom */
+.padding-y {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+/* Add padding to left and right */
+.padding-x {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
