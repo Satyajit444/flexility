@@ -21,4 +21,7 @@ You can include Flexility in your project by linking to the hosted CSS file or b
 Include the following link in your HTML file's `<head>` to use Flexility in your project:
 
 ```html
-<link rel="stylesheet" href="https://example.com/path/to/flexility.css">
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/Satyajit444/flexility/flexility.css"
+    />
